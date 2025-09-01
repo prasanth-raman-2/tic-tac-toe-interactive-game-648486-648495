@@ -6,8 +6,9 @@
   --text-primary: #282c34;
   --text-secondary: #61dafb;
   --border-color: #e9ecef;
-  --button-bg: #007bff;
-  --button-text: #ffffff;
+  --primary: #4A90E2;
+  --secondary: #D1E4F6;
+  --accent: #FF6F61;
 }
 
 [data-theme="dark"] {
